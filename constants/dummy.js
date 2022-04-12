@@ -3,31 +3,31 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "NFT-01",
-    name: "Abstracto #312",
-    creator: "Putri Intan",
-    price: 4.25,
+    name: "John Xina",
+    creator: "Victor Nguyen",
+    price: 999.99,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.",
+      "+8392829282938 social credit. We can't let those American wrestlers put dirt on the name of our glorious members of the CCP",
     image: assets.nft01,
     bids: [
       {
         id: "BID-11",
         name: "Jessica Tan",
-        price: 4.25,
+        price: 904.25,
         image: assets.person02,
         date: "December 12, 2019 at 12:10 PM",
       },
       {
         id: "BID-12",
         name: "Jennifer Sia",
-        price: 4.5,
+        price: 784.5,
         image: assets.person03,
         date: "December 27, 2019 at 1:50 PM",
       },
       {
         id: "BID-13",
         name: "Rosie Wong",
-        price: 4.75,
+        price: 884.75,
         image: assets.person04,
         date: "December 31, 2019 at 3:50 PM",
       },
@@ -35,11 +35,11 @@ const NFTData = [
   },
   {
     id: "NFT-02",
-    name: "Green Coins",
-    creator: "Siti Nurhaliza",
-    price: 7.25,
+    name: "Trần Dần 1st Quốc Sư Hoa Kỳ",
+    creator: "Victor Nguyen",
+    price: 7892.25,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+      "CHỬI THỀ CON CẶC - Trần Dần.",
     image: assets.nft02,
     bids: [
       {
@@ -53,17 +53,17 @@ const NFTData = [
   },
   {
     id: "NFT-03",
-    name: "NFT coins race",
-    creator: "Elisabeth aho",
-    price: 95.25,
+    name: "Sư thầy Cặk Lỏd",
+    creator: "Yaxua Nguyễn",
+    price: 9999.99,
     description:
-      "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis. Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur. Nulla sed velit erat vitae leo sem inceptos diam fames arcu hendrerit, quis ultrices in eleifend posuere ipsum conubia porttitor felis.",
+      "Tên thật: ██████ ████ ████. Chức vụ: █████ ████. Tiểu sử: Ông đã từng công tác ở █████████ sau này chuyển về ██ ███ ███ ██. Đạt được các thành tích sau ████████ ███ ██ █████████ ████████ ██ █████ ███ Hồ sơ số XK-5XR███████ Lưu trữ tại: ███████ █████████ ██████████ ██ ██████████ ███████████ ████ █ ████████",
     image: assets.nft03,
     bids: [
       {
         id: "BID-31",
         name: "Jessica Tan",
-        price: 95.25,
+        price: 5200.25,
         image: assets.person02,
         date: "December 12, 2019 at 12:10 PM",
       },
@@ -80,7 +80,7 @@ const NFTData = [
     id: "NFT-04",
     name: "Nifty NFT",
     creator: "Putri Intan",
-    price: 54.25,
+    price: 99,
     description:
       "The action painter abstract expressionists were directly influenced by automatism. Pollock channelled this into producing gestural.Lorem ipsum dolor sit amet consectetur adipiscing elit consequat accumsan sapien, lectus convallis malesuada odio curae habitasse dignissim nascetur.",
     image: assets.nft04,
