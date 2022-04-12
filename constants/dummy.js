@@ -3,11 +3,11 @@ import assets from "./assets";
 const NFTData = [
   {
     id: "NFT-01",
-    name: "John Xina",
+    name: "Enduring Immunus #32",
     creator: "Victor Nguyen",
     price: 999.99,
     description:
-      "+8392829282938 social credit. We can't let those American wrestlers put dirt on the name of our glorious members of the CCP",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     image: assets.nft01,
     bids: [
       {
@@ -35,11 +35,11 @@ const NFTData = [
   },
   {
     id: "NFT-02",
-    name: "Trần Dần 1st Quốc Sư Hoa Kỳ",
+    name: "Steampunk Dreams (Uncommon)",
     creator: "Victor Nguyen",
     price: 7892.25,
     description:
-      "CHỬI THỀ CON CẶC - Trần Dần.",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     image: assets.nft02,
     bids: [
       {
@@ -53,11 +53,11 @@ const NFTData = [
   },
   {
     id: "NFT-03",
-    name: "Sư thầy Cặk Lỏd",
+    name: "Edifice #707",
     creator: "Yaxua Nguyễn",
-    price: 9999.99,
+    price: 999.99,
     description:
-      "Tên thật: ██████ ████ ████. Chức vụ: █████ ████. Tiểu sử: Ông đã từng công tác ở █████████ sau này chuyển về ██ ███ ███ ██. Đạt được các thành tích sau ████████ ███ ██ █████████ ████████ ██ █████ ███ Hồ sơ số XK-5XR███████ Lưu trữ tại: ███████ █████████ ██████████ ██ ██████████ ███████████ ████ █ ████████",
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
     image: assets.nft03,
     bids: [
       {
@@ -181,7 +181,7 @@ const NFTData = [
   },
   {
     id: "NFT-07",
-    name: "Abstracto soulful art",
+    name: "TIME The Future of Business",
     creator: "Victor de la Cruz",
     price: 18.25,
     description:
